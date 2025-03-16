@@ -1,2 +1,8 @@
-# video-rental-sql
-A comprehensive Video Rental Data Management System built using Oracle SQL with BCNF normalization. The project includes database schemas, views, and queries for rental management, customer tracking, equipment maintenance, and payment processing. Additionally, a Bash program and a Java-based GUI provide user interaction with the database.
+# Video Rental DBMS Project
+This project is a Video Rental Database Management System (DBMS) that allows users to manage rental transactions, customers, equipment inventory, and payments efficiently. It includes:
+
+Database Schema: Tables for storing customer, equipment, rentals, maintenance, and payments data.
+SQL Queries: Various queries for data retrieval and analysis.
+Java GUI Application: A simple Java-based Swing GUI to interact with the database.
+Testing Scripts: A test script (TestConnection.java) to check database connectivity.
+
